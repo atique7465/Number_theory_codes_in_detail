@@ -1,0 +1,15 @@
+https://www.google.com/search?q=Andrew+Granville+lucas+theorem&oq=Andrew+Granville&aqs=chrome.1.69i57j69i59j69i60j0l3.1710j0j7&sourceid=chrome&ie=UTF-8
+
+https://math.stackexchange.com/questions/95491/n-choose-k-bmod-m-using-chinese-remainder-theorem
+
+http://codeforces.com/blog/entry/19826
+
+http://codeforces.com/blog/entry/10271?#comment-156864
+
+https://www.quora.com/What-are-some-good-implementations-of-the-general-Lucas%E2%80%99-theorem-in-C++
+
+https://divyanshkumarsblog.wordpress.com/2017/05/30/number-theory-ii-advanced-modular-arithmetic/
+
+https://www.hackerrank.com/challenges/ncr/forum
+
+https://discuss.codechef.com/questions/3869/best-known-algos-for-calculating-ncr-m
